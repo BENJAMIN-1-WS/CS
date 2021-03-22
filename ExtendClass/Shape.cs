@@ -19,8 +19,8 @@ namespace extends
                 this.y = y;
             }
 
-            public virtual double Area()
-            {
+            public virtual double Area()  // ==> virtual function Area == > Area() 
+             {
                 return x * y;
             }
         }
@@ -43,7 +43,7 @@ namespace extends
             {
             }
 
-            public override double Area()
+            public override double Area()  // ==> override function Area!!
             {
                 return 4 * PI * x * x;
             }
@@ -55,7 +55,7 @@ namespace extends
             {
             }
 
-            public override double Area()
+            public override double Area()  // ==> override function Area!!
             {
                 return 2 * PI * x * x + 2 * PI * x * y;
             }
