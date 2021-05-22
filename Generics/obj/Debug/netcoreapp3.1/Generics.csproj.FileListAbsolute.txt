@@ -1,0 +1,39 @@
+C:\Users\User\Desktop\LIMODIM\B\C#\Generics\Generics\bin\Debug\netcoreapp3.1\Generics.exe
+C:\Users\User\Desktop\LIMODIM\B\C#\Generics\Generics\bin\Debug\netcoreapp3.1\Generics.deps.json
+C:\Users\User\Desktop\LIMODIM\B\C#\Generics\Generics\bin\Debug\netcoreapp3.1\Generics.runtimeconfig.json
+C:\Users\User\Desktop\LIMODIM\B\C#\Generics\Generics\bin\Debug\netcoreapp3.1\Generics.runtimeconfig.dev.json
+C:\Users\User\Desktop\LIMODIM\B\C#\Generics\Generics\bin\Debug\netcoreapp3.1\Generics.dll
+C:\Users\User\Desktop\LIMODIM\B\C#\Generics\Generics\bin\Debug\netcoreapp3.1\Generics.pdb
+C:\Users\User\Desktop\LIMODIM\B\C#\Generics\Generics\obj\Debug\netcoreapp3.1\Generics.csprojAssemblyReference.cache
+C:\Users\User\Desktop\LIMODIM\B\C#\Generics\Generics\obj\Debug\netcoreapp3.1\Generics.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\LIMODIM\B\C#\Generics\Generics\obj\Debug\netcoreapp3.1\Generics.AssemblyInfo.cs
+C:\Users\User\Desktop\LIMODIM\B\C#\Generics\Generics\obj\Debug\netcoreapp3.1\Generics.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\LIMODIM\B\C#\Generics\Generics\obj\Debug\netcoreapp3.1\Generics.dll
+C:\Users\User\Desktop\LIMODIM\B\C#\Generics\Generics\obj\Debug\netcoreapp3.1\Generics.pdb
+C:\Users\User\Desktop\LIMODIM\B\C#\Generics\Generics\obj\Debug\netcoreapp3.1\Generics.genruntimeconfig.cache
+E:\LIMODIM\B\C#\Generics\Generics\bin\Debug\netcoreapp3.1\Generics.exe
+E:\LIMODIM\B\C#\Generics\Generics\bin\Debug\netcoreapp3.1\Generics.deps.json
+E:\LIMODIM\B\C#\Generics\Generics\bin\Debug\netcoreapp3.1\Generics.runtimeconfig.json
+E:\LIMODIM\B\C#\Generics\Generics\bin\Debug\netcoreapp3.1\Generics.runtimeconfig.dev.json
+E:\LIMODIM\B\C#\Generics\Generics\bin\Debug\netcoreapp3.1\Generics.dll
+E:\LIMODIM\B\C#\Generics\Generics\bin\Debug\netcoreapp3.1\Generics.pdb
+E:\LIMODIM\B\C#\Generics\Generics\obj\Debug\netcoreapp3.1\Generics.csprojAssemblyReference.cache
+E:\LIMODIM\B\C#\Generics\Generics\obj\Debug\netcoreapp3.1\Generics.AssemblyInfoInputs.cache
+E:\LIMODIM\B\C#\Generics\Generics\obj\Debug\netcoreapp3.1\Generics.AssemblyInfo.cs
+E:\LIMODIM\B\C#\Generics\Generics\obj\Debug\netcoreapp3.1\Generics.csproj.CoreCompileInputs.cache
+E:\LIMODIM\B\C#\Generics\Generics\obj\Debug\netcoreapp3.1\Generics.dll
+E:\LIMODIM\B\C#\Generics\Generics\obj\Debug\netcoreapp3.1\Generics.pdb
+E:\LIMODIM\B\C#\Generics\Generics\obj\Debug\netcoreapp3.1\Generics.genruntimeconfig.cache
+C:\Users\User\Desktop\LIMODIM\סמסטר א\C#\Generics\Generics\bin\Debug\netcoreapp3.1\Generics.exe
+C:\Users\User\Desktop\LIMODIM\סמסטר א\C#\Generics\Generics\bin\Debug\netcoreapp3.1\Generics.deps.json
+C:\Users\User\Desktop\LIMODIM\סמסטר א\C#\Generics\Generics\bin\Debug\netcoreapp3.1\Generics.runtimeconfig.json
+C:\Users\User\Desktop\LIMODIM\סמסטר א\C#\Generics\Generics\bin\Debug\netcoreapp3.1\Generics.runtimeconfig.dev.json
+C:\Users\User\Desktop\LIMODIM\סמסטר א\C#\Generics\Generics\bin\Debug\netcoreapp3.1\Generics.dll
+C:\Users\User\Desktop\LIMODIM\סמסטר א\C#\Generics\Generics\bin\Debug\netcoreapp3.1\Generics.pdb
+C:\Users\User\Desktop\LIMODIM\סמסטר א\C#\Generics\Generics\obj\Debug\netcoreapp3.1\Generics.csprojAssemblyReference.cache
+C:\Users\User\Desktop\LIMODIM\סמסטר א\C#\Generics\Generics\obj\Debug\netcoreapp3.1\Generics.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\LIMODIM\סמסטר א\C#\Generics\Generics\obj\Debug\netcoreapp3.1\Generics.AssemblyInfo.cs
+C:\Users\User\Desktop\LIMODIM\סמסטר א\C#\Generics\Generics\obj\Debug\netcoreapp3.1\Generics.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\LIMODIM\סמסטר א\C#\Generics\Generics\obj\Debug\netcoreapp3.1\Generics.dll
+C:\Users\User\Desktop\LIMODIM\סמסטר א\C#\Generics\Generics\obj\Debug\netcoreapp3.1\Generics.pdb
+C:\Users\User\Desktop\LIMODIM\סמסטר א\C#\Generics\Generics\obj\Debug\netcoreapp3.1\Generics.genruntimeconfig.cache
